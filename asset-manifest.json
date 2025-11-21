@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nitinchahar987/myclimate-app.git/static/css/main.2d8cc9a1.css",
+    "main.js": "/nitinchahar987/myclimate-app.git/static/js/main.aa0e21c9.js",
+    "static/js/453.c5fe007e.chunk.js": "/nitinchahar987/myclimate-app.git/static/js/453.c5fe007e.chunk.js",
+    "static/media/logo.svg": "/nitinchahar987/myclimate-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/nitinchahar987/myclimate-app.git/index.html",
+    "main.2d8cc9a1.css.map": "/nitinchahar987/myclimate-app.git/static/css/main.2d8cc9a1.css.map",
+    "main.aa0e21c9.js.map": "/nitinchahar987/myclimate-app.git/static/js/main.aa0e21c9.js.map",
+    "453.c5fe007e.chunk.js.map": "/nitinchahar987/myclimate-app.git/static/js/453.c5fe007e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d8cc9a1.css",
+    "static/js/main.aa0e21c9.js"
+  ]
+}
